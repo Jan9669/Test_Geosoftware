@@ -4,7 +4,7 @@
 let podcast = 1
 let end = true
 console.log(podcast +end)
-let b=5
+let b=6
 
 let pod = "lecture"
 let cast = 1
